@@ -1,3 +1,0 @@
-Proyecto: Git Conflicts
-Responsable: Luis Armando Garzón Tirado
-Version: 1.0
